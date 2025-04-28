@@ -1,2 +1,2 @@
 # DTSC2302
-Group rpoject
+Group project
